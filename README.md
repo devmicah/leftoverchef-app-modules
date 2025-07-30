@@ -4,10 +4,13 @@ This was the first app I've ever made, I started building it back in early 2023.
 
 # Meal Generator (deprecated)
 <img width="266" height="514" alt="Screenshot 2025-07-30 at 9 55 56 AM" src="https://github.com/user-attachments/assets/c27f1d56-54d7-4169-8a69-68f3c1296c4c" />
+
 # Meal Generator
 <img width="261" height="495" alt="Screenshot 2025-07-30 at 9 57 20 AM" src="https://github.com/user-attachments/assets/eaa272df-8863-4b30-8e89-b72d6cf5f75b" />
+
 # Generated Meal
 <img width="265" height="512" alt="Screenshot 2025-07-30 at 9 56 03 AM" src="https://github.com/user-attachments/assets/4c224f3c-2a07-41bc-ab59-82e2a0888f8b" />
+
 # Ingredients Catalog
 <img width="287" height="501" alt="Screenshot 2025-07-30 at 9 57 26 AM" src="https://github.com/user-attachments/assets/8d69d77d-7a32-4b20-a7fe-8f128d3a7c6a" />
 # Landing Tutorial
