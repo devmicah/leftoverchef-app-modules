@@ -39,7 +39,7 @@ This was the first app I've ever made, I started building it back in early 2023.
 <img width="267" height="513" alt="Screenshot 2025-07-30 at 9 56 33 AM" src="https://github.com/user-attachments/assets/cfaccc9f-13e8-45ca-8876-a7938e9a2ced" />
 
 # Meal Preferences List
-<img width="826" height="990" alt="image" src="https://github.com/user-attachments/assets/be756409-f498-4fec-ad88-1c67489821a3" />
+<img width="267" height="513" alt="image" src="https://github.com/user-attachments/assets/be756409-f498-4fec-ad88-1c67489821a3" />
 
 # Auth Sign Up
 <img width="265" height="499" alt="Screenshot 2025-07-30 at 9 56 21 AM" src="https://github.com/user-attachments/assets/fd842a6e-5cb9-4180-ab80-d55c90f0fddf" />
